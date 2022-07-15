@@ -1,11 +1,9 @@
 package com.actitime.testscript;
-// Changed test
 import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.Reporter;
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.actitime.generic.FileLib;
